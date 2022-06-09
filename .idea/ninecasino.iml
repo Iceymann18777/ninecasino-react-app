@@ -5,6 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.cache" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -26,5 +27,19 @@
     <orderEntry type="library" name="c280b79" level="application" />
     <orderEntry type="library" name="b618149" level="application" />
     <orderEntry type="library" name="5d4e2df" level="application" />
+    <orderEntry type="library" name="b618149" level="application" />
+    <orderEntry type="library" name="5d4e2df" level="application" />
+    <orderEntry type="library" name="5e2b645" level="application" />
+    <orderEntry type="library" name="9b40d22" level="application" />
+    <orderEntry type="library" name="d4b3770" level="application" />
+    <orderEntry type="library" name="f4c9ca6" level="application" />
+    <orderEntry type="library" name="1171108" level="application" />
+    <orderEntry type="library" name="abda985" level="application" />
+    <orderEntry type="library" name="a5fe851" level="application" />
+    <orderEntry type="library" name="c280b79" level="application" />
+    <orderEntry type="library" name="0f96511" level="application" />
+    <orderEntry type="library" name="ab52b76" level="application" />
+    <orderEntry type="library" name="dcacc69" level="application" />
+    <orderEntry type="library" name="68fcf90" level="application" />
   </component>
 </module>

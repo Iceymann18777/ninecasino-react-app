@@ -2,7 +2,7 @@
   "name": "ninecasino",
   "version": "0.0.1",
   "description": "Online Gamble scripts",
-  "keywords": "https://ninecasino.com/",
+  "keywords": "",
   "license": "MIT License",
   "author": "Adam Khader",
   "scripts": {
@@ -15,14 +15,18 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
+    "apg-js": "^4.1.2",
     "bootstrap": "^5.1.3",
     "browser": "^0.2.6",
     "inherits": "^2.0.4",
     "inject": "^1.0.0beta2",
     "md5": "^2.3.0",
+    "plugins": "^0.4.2",
     "sdk": "^0.5.0",
     "sha": "^3.0.0",
     "smartico": "^0.0.1",
+    "staging": "^0.1.3",
+    "util": "^0.12.4",
     "webpack": "^5.73.0"
   }
 }
