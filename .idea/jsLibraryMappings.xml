@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/js/inject.js" libraries="{HTTP Response Handler, conversion_async, loader}" />
+    <file url="PROJECT" libraries="{07ff3a1, 0f96511, 1171108, 27aff26, 5d4e2df, 5e2b645, 6436af8, 9b40d22, a02ffee, a5fe851, ab52b76, abda985, b618149, c280b79, d4b3770, f4c9ca6}" />
+  </component>
+</project>
